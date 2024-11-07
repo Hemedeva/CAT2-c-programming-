@@ -1,3 +1,12 @@
+(i) an array is a collection of elements of the
+same data type stored in contiguous memory
+locations.
+
+(ii)int scores[2][2] = {{65, 92}, {84, 72}, {35, 70}, {59, 67}};
+
+
+
+
 #include <stdio.h>
 
 int main() {
