@@ -1,4 +1,3 @@
-CAT2_Q1.c
 
 #include <stdio.h>
 #include <string.h>
